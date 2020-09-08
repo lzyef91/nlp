@@ -4,7 +4,7 @@ namespace Nldou\Nlp;
 
 use Nldou\Nlp\Nlp;
 
-use Illuminate\Contracts\Support\DeferrableProvider;
+use \Illuminate\Contracts\Support\DeferrableProvider;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider implements DeferrableProvider
 {

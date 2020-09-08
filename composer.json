@@ -11,7 +11,7 @@
     "require": {
         "tencentcloud/tencentcloud-sdk-php": "^3.0",
         "alibabacloud/sdk": "^1.8",
-        "laravel/framework": "5.8.*"
+        "illuminate/support": "^5.8 || ^6.0 || ^7.0"
     },
     "autoload": {
         "psr-4": {
